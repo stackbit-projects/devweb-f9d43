@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Devweb
 sections:
   - section_id: hero
     type: section_hero
